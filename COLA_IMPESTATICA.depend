@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665797952 source:c:\users\rosal\onedrive\documentos\programacion 2022\cola\imp.estatica\cola_impestatica\functions_cola.c
+	"COLA_EST.h"
+	<string.h>
+
+1665797964 c:\users\rosal\onedrive\documentos\programacion 2022\cola\imp.estatica\cola_impestatica\cola_est.h
+	<stdbool.h>
+	<stdio.h>
+
